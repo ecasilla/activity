@@ -1,2 +1,2 @@
 # ActivityOverlord
-### a Sails application
+### A Sails application
